@@ -1,0 +1,10 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    padding: 70px;
+}
+html,body{
+    background-color: rgb(166, 185, 60);
+    color: white;
+}
